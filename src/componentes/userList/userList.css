@@ -1,0 +1,25 @@
+h1 {
+  color: #00ff00; /* Título verde */
+}
+
+h2,
+p {
+  color: aliceblue;
+}
+
+.user-item {
+  background: #1a1a1a; /* Fundo escuro para cada item */
+  color: #00ff00; /* Texto verde para cada item */
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #00ff00; /* Borda verde */
+}
+
+.user-item button {
+  margin-right: 10px; /* Espaçamento entre botões */
+}
+
+body {
+  background-color: black;
+}
